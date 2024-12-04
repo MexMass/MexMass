@@ -5,5 +5,4 @@
 
 [![Lukas Stackoverflow](https://github-readme-stackoverflow.vercel.app/?userID=14819134&&layout=compact&theme=dark)](https://stackoverflow.com/users/14819134/lukas)
 
-![intellij](https://img.shields.io/badge/coding-BopoDopo-blue?style=plastic&logo=intellijidea&logoColor=rgba)
 ![spring](https://img.shields.io/badge/learning-Spring-blue?style=plastic)
