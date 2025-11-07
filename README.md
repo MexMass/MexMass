@@ -4,4 +4,4 @@ I am currently refreshing my knowledge around Spring & Java.
 
 [![Lukas Stackoverflow](https://github-readme-stackoverflow.vercel.app/?userID=14819134&&layout=compact&theme=dark)](https://stackoverflow.com/users/14819134/lukas)
 
-![spring](https://img.shields.io/badge/learning-React-blue?style=plastic)
+![spring](https://img.shields.io/badge/learning-Spring-blue?style=plastic)
